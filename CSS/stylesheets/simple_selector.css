@@ -1,0 +1,12 @@
+* {
+    color: blue;
+}
+p.center {
+    text-decoration: underline dashed green;
+}
+h3,p,h5 {
+    background-color: bisque;
+}
+h5 {
+    text-decoration: overline dashed brown;
+}

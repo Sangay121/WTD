@@ -1,0 +1,20 @@
+div {
+    background-color: lightblue;
+    padding: 30px;
+    text-align: center;
+}
+div :hover {
+    background-color: pink;
+}
+
+input:focus {
+    background-color: peachpuff;
+}
+
+p:first-child {
+    color: rgb(226, 15, 209);
+  }
+
+a[target] {
+    background-color: blue;
+}
